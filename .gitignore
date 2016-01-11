@@ -26,3 +26,11 @@
 *.exe
 *.out
 *.app
+*.ilk
+*.tlog
+
+TestVS2015/Debug/
+TestVS2015/TestVS2015/Debug
+TestVS2015/Release/
+*.pdb
+*.log
