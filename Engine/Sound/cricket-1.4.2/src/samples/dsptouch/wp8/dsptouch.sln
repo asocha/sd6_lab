@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Phone
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dsptouch_native", "dsptouch_native\dsptouch_native.vcxproj", "{F0E5FC1C-7047-46FA-9037-308A4DB2CCFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dsptouch", "dsptouch\dsptouch.csproj", "{E3D045F0-F4F8-43B8-9CFA-6EB7D5D11F77}"
+	ProjectSection(ProjectDependencies) = postProject
+		{F0E5FC1C-7047-46FA-9037-308A4DB2CCFE} = {F0E5FC1C-7047-46FA-9037-308A4DB2CCFE}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0E5FC1C-7047-46FA-9037-308A4DB2CCFE}.Debug|ARM.ActiveCfg = Debug|ARM
+		{F0E5FC1C-7047-46FA-9037-308A4DB2CCFE}.Debug|ARM.Build.0 = Debug|ARM
+		{F0E5FC1C-7047-46FA-9037-308A4DB2CCFE}.Debug|x86.ActiveCfg = Debug|Win32
+		{F0E5FC1C-7047-46FA-9037-308A4DB2CCFE}.Debug|x86.Build.0 = Debug|Win32
+		{F0E5FC1C-7047-46FA-9037-308A4DB2CCFE}.Release|ARM.ActiveCfg = Release|ARM
+		{F0E5FC1C-7047-46FA-9037-308A4DB2CCFE}.Release|ARM.Build.0 = Release|ARM
+		{F0E5FC1C-7047-46FA-9037-308A4DB2CCFE}.Release|x86.ActiveCfg = Release|Win32
+		{F0E5FC1C-7047-46FA-9037-308A4DB2CCFE}.Release|x86.Build.0 = Release|Win32
+		{E3D045F0-F4F8-43B8-9CFA-6EB7D5D11F77}.Debug|ARM.ActiveCfg = Debug|ARM
+		{E3D045F0-F4F8-43B8-9CFA-6EB7D5D11F77}.Debug|ARM.Build.0 = Debug|ARM
+		{E3D045F0-F4F8-43B8-9CFA-6EB7D5D11F77}.Debug|ARM.Deploy.0 = Debug|ARM
+		{E3D045F0-F4F8-43B8-9CFA-6EB7D5D11F77}.Debug|x86.ActiveCfg = Debug|x86
+		{E3D045F0-F4F8-43B8-9CFA-6EB7D5D11F77}.Debug|x86.Build.0 = Debug|x86
+		{E3D045F0-F4F8-43B8-9CFA-6EB7D5D11F77}.Debug|x86.Deploy.0 = Debug|x86
+		{E3D045F0-F4F8-43B8-9CFA-6EB7D5D11F77}.Release|ARM.ActiveCfg = Release|ARM
+		{E3D045F0-F4F8-43B8-9CFA-6EB7D5D11F77}.Release|ARM.Build.0 = Release|ARM
+		{E3D045F0-F4F8-43B8-9CFA-6EB7D5D11F77}.Release|ARM.Deploy.0 = Release|ARM
+		{E3D045F0-F4F8-43B8-9CFA-6EB7D5D11F77}.Release|x86.ActiveCfg = Release|x86
+		{E3D045F0-F4F8-43B8-9CFA-6EB7D5D11F77}.Release|x86.Build.0 = Release|x86
+		{E3D045F0-F4F8-43B8-9CFA-6EB7D5D11F77}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
