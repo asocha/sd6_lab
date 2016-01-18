@@ -1,0 +1,188 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="3cc0c949-c809-4956-a196-73fed5dfc73f" Title="CricketTechnology.Audio" Url="html/1cc15cbe-1266-a426-37a4-578364c6a170.htm">
+    <HelpTOCNode Title="AttenuationMode Enumeration" Url="html/f6ccb926-f0ef-1bbc-1d18-54fffc042815.htm" />
+    <HelpTOCNode Id="80f0528e-6701-40ca-80a2-1a87c9d51adf" Title="Bank Class" Url="html/1c57493e-34e2-eaf5-313b-129c16a46590.htm">
+      <HelpTOCNode Title="Bank Members" Url="html/8cdc8d41-63e3-f483-97a7-704ce0a4d6b9.htm" />
+      <HelpTOCNode Id="dde2a5bd-fe6a-4b0d-b089-719919fc28da" Title="Bank Methods" Url="html/b0d2f73c-2a97-a950-be9d-41c279c1993b.htm">
+        <HelpTOCNode Title="Close Method " Url="html/21af2dc3-2bb3-81e1-5237-7f68dc6f1655.htm" />
+        <HelpTOCNode Title="Destroy Method " Url="html/12747371-e75d-1b63-a3f7-4f612c7a65fb.htm" />
+        <HelpTOCNode Title="Find Method " Url="html/ee988899-b060-a8a2-70eb-14f07d18da53.htm" />
+        <HelpTOCNode Title="GetSoundName Method " Url="html/d80113df-d88e-6ef0-409a-ce0fcf2aac42.htm" />
+        <HelpTOCNode Id="5e70da9b-5879-43b5-9494-16e1b9661c85" Title="NewBank Method " Url="html/d14f40c2-c328-5c13-a346-ee1e71185043.htm">
+          <HelpTOCNode Title="NewBank Method (String)" Url="html/4813a409-9055-8b02-4d8b-9cea8c0513b1.htm" />
+          <HelpTOCNode Title="NewBank Method (String, PathType)" Url="html/ae13b8ab-cdc6-080f-2214-5b3b139e265e.htm" />
+          <HelpTOCNode Title="NewBank Method (String, PathType, Int32, Int32)" Url="html/af22392b-42d3-33a7-f8cd-ca7b630f1aeb.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="1533fe80-d97f-4519-a8da-692bb8bb583d" Title="NewBankAsync Method " Url="html/f0bda9fc-83a6-802f-cdce-3e0d24716ce1.htm">
+          <HelpTOCNode Title="NewBankAsync Method (String)" Url="html/60cb2099-fe07-83c2-e11d-263ab995b0a0.htm" />
+          <HelpTOCNode Title="NewBankAsync Method (String, PathType)" Url="html/f9998bdb-d08a-f409-5878-2b749351e9cb.htm" />
+          <HelpTOCNode Title="NewBankAsync Method (String, PathType, Int32, Int32)" Url="html/34366834-f1bc-3606-bf7f-c45eae200ee2.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="52925549-0ea0-4c64-b861-edc25972a90c" Title="Bank Properties" Url="html/45a8f778-3537-7722-a671-ca4750706b74.htm">
+        <HelpTOCNode Title="Failed Property " Url="html/68eb35d8-e902-dc61-09c3-e0d14d8741e6.htm" />
+        <HelpTOCNode Title="Loaded Property " Url="html/b902621f-b002-6273-4077-39caf64e283e.htm" />
+        <HelpTOCNode Title="Name Property " Url="html/25613841-fe99-4cb7-59d5-1828828387f9.htm" />
+        <HelpTOCNode Title="NumSounds Property " Url="html/8a8afe64-5682-56ef-5fb3-1234216fd4f9.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="BiquadFilterParam Enumeration" Url="html/def95c32-02b9-4075-0aa5-d6198be04c9a.htm" />
+    <HelpTOCNode Title="BiquadFilterParam_FilterType Enumeration" Url="html/cdcfef86-72e2-e170-8f3d-ffba9969f83a.htm" />
+    <HelpTOCNode Title="BitCrusherParam Enumeration" Url="html/1c91ed60-3733-998f-7e2d-e7abb6f0efbb.htm" />
+    <HelpTOCNode Id="8ff41d3c-164e-4774-a60c-69e1e60d9ba7" Title="Ck Class" Url="html/2aed11bb-a0f0-eb6b-57ae-e8745b6c8a60.htm">
+      <HelpTOCNode Title="Ck Members" Url="html/be37664a-12c9-5663-4e51-f7a6cc58155b.htm" />
+      <HelpTOCNode Id="3f71e617-d5e3-4a88-b8f2-6bfd23e9c6a2" Title="Ck Methods" Url="html/dde0f2e0-aa87-efb8-acb3-30c5354b4487.htm">
+        <HelpTOCNode Title="Init Method " Url="html/95db5a65-d69c-adb1-b682-1ded3b84622a.htm" />
+        <HelpTOCNode Title="ResetClipFlag Method " Url="html/9162224e-c726-1361-56ad-0ad0fe67786b.htm" />
+        <HelpTOCNode Title="Resume Method " Url="html/5cddbeee-0116-3a6c-7688-0373ed3a3abd.htm" />
+        <HelpTOCNode Title="Shutdown Method " Url="html/1cbe7f79-5537-aac9-bd5e-df74cda4410b.htm" />
+        <HelpTOCNode Title="Suspend Method " Url="html/ab2a31c0-69a6-5619-60b9-096ae2e1bee8.htm" />
+        <HelpTOCNode Title="Update Method " Url="html/9bcf617f-8b98-7130-0546-8c7010374e7a.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="1eb10551-95fc-4412-bca1-2dc24f7da63b" Title="Ck Properties" Url="html/d302cb9e-725e-68a0-5a76-576ba564d3cd.htm">
+        <HelpTOCNode Title="ClipFlag Property " Url="html/ac888255-465b-09a2-2f46-3205cf59979c.htm" />
+        <HelpTOCNode Title="RenderLoad Property " Url="html/ec762997-5a5b-9ffd-be3f-ce2219ae23a9.htm" />
+        <HelpTOCNode Title="VolumeRampTime Property " Url="html/0774012e-93d0-3006-3c6a-fafe80e5c683.htm" />
+        <HelpTOCNode Title="VolumeRampTimeMsDefault Property " Url="html/798e9666-d1ed-e4ca-389e-2c588079e3af.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="ace6fd70-b862-4327-9462-32514ff5e9f2" Title="Config Class" Url="html/73359442-dfe1-c686-d2d5-f023e6da6b79.htm">
+      <HelpTOCNode Title="Config Members" Url="html/ab6d4268-3449-f988-ad63-d364a71d9ac0.htm" />
+      <HelpTOCNode Title="Config Constructor " Url="html/a3ccc896-4ee2-b9aa-a435-181a99347625.htm" />
+      <HelpTOCNode Title="Config Methods" Url="html/fbd999d0-1ed4-2b3b-d95b-60fbf9bf2245.htm" />
+      <HelpTOCNode Id="b1cd0fd0-f3b8-4a18-9833-da37e9f76b23" Title="Config Properties" Url="html/64240f39-aee3-8542-08b6-c8c11aa2c09c.htm">
+        <HelpTOCNode Title="AudioUpdateMs Property " Url="html/bb298904-8233-fff8-deb2-ae82a05562a6.htm" />
+        <HelpTOCNode Title="LogMask Property " Url="html/3bb08cbe-d1cb-a7d6-0839-6dca4ce4bc02.htm" />
+        <HelpTOCNode Title="MaxAudioTasks Property " Url="html/8ac4c563-f7b0-736e-1024-992305ad1d5f.htm" />
+        <HelpTOCNode Title="MaxRenderLoad Property " Url="html/83a5fc21-13a5-27da-de56-af760c850770.htm" />
+        <HelpTOCNode Title="StreamBufferMs Property " Url="html/f39eed9f-54ac-c882-746f-9a12cf113206.htm" />
+        <HelpTOCNode Title="StreamFileUpdateMs Property " Url="html/c0acc9b9-a895-f79d-9f47-f6e3c32d975d.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="DistortionParam Enumeration" Url="html/d0dfd441-0909-717f-c742-32fb7e378f00.htm" />
+    <HelpTOCNode Id="ea8b3c3d-dc2d-46aa-8a8f-d99339aa77ac" Title="Effect Class" Url="html/d509b6dc-4379-121f-bf01-893d54f3fb0e.htm">
+      <HelpTOCNode Title="Effect Members" Url="html/74501b29-1f00-9a56-dc94-87c6f36cbce4.htm" />
+      <HelpTOCNode Id="2a066ffa-3cc4-4025-8278-b0b49005d30d" Title="Effect Methods" Url="html/1f4e9c03-ea83-3819-edc7-d97b7a3a1bd2.htm">
+        <HelpTOCNode Title="Close Method " Url="html/ea5ae9ad-939b-e752-d9f9-317f0e534574.htm" />
+        <HelpTOCNode Title="Destroy Method " Url="html/4d3929df-3536-e082-ee39-25634851613f.htm" />
+        <HelpTOCNode Title="NewCustomEffect Method " Url="html/3d22c78f-e157-073c-41fa-4c9dcf360bca.htm" />
+        <HelpTOCNode Title="NewEffect Method " Url="html/9098abae-f44e-732b-b3ac-4867d701ad79.htm" />
+        <HelpTOCNode Title="Reset Method " Url="html/7d3664df-c734-f032-55be-1cf33e274e56.htm" />
+        <HelpTOCNode Title="SetParam Method " Url="html/8ab098a2-ca08-f338-8ae6-2e149fcc8434.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="83f07baf-e966-49ae-8b73-5173b80701db" Title="Effect Properties" Url="html/5bad9198-c7b6-c2f0-a07b-acac5457ca9b.htm">
+        <HelpTOCNode Title="Bypassed Property " Url="html/517c0135-ade5-0796-bd6e-710593229396.htm" />
+        <HelpTOCNode Title="WetDryRatio Property " Url="html/6b4fa2b1-0c03-4e57-e832-567ba9370754.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="38985b36-6742-4f98-b5a6-c7166a59705f" Title="EffectBus Class" Url="html/15ace513-4311-e694-3ddb-a0629c8a6ecc.htm">
+      <HelpTOCNode Title="EffectBus Members" Url="html/dd66b034-917a-4091-fd08-91d1876bb154.htm" />
+      <HelpTOCNode Id="ac6704dc-8356-4c91-8775-9cc833d8397e" Title="EffectBus Methods" Url="html/d288eef5-c6f6-0823-84dd-fe52474c9509.htm">
+        <HelpTOCNode Title="AddEffect Method " Url="html/fae56e68-4443-8756-cada-a764b9c08046.htm" />
+        <HelpTOCNode Title="Close Method " Url="html/c2243afd-0853-3fbe-9e4f-942df2df989b.htm" />
+        <HelpTOCNode Title="Destroy Method " Url="html/a0216057-92c5-ba26-203c-a769f730c9b0.htm" />
+        <HelpTOCNode Title="NewEffectBus Method " Url="html/cfcc7d45-340c-adbf-ab12-8a4851ece7f4.htm" />
+        <HelpTOCNode Title="RemoveAllEffects Method " Url="html/e92ddea4-48ea-965f-9098-b0d625c78be1.htm" />
+        <HelpTOCNode Title="RemoveEffect Method " Url="html/4cd869e4-8a97-d201-e870-38c5ff2cb46a.htm" />
+        <HelpTOCNode Title="Reset Method " Url="html/795ee1af-9a74-5d0d-479b-05c2efbf8998.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="bce86a49-2546-4262-a1aa-acead9ce6e9e" Title="EffectBus Properties" Url="html/ab1f678c-5ea3-e929-795c-230332d4ae8e.htm">
+        <HelpTOCNode Title="Bypassed Property " Url="html/a0a70108-c94a-8c6c-c026-97f57c1df1f1.htm" />
+        <HelpTOCNode Title="GlobalEffectBus Property " Url="html/f062308d-dd99-619d-2af0-07f004daadd2.htm" />
+        <HelpTOCNode Title="OutputBus Property " Url="html/0597e980-7f72-2388-d9a1-ac34a5412548.htm" />
+        <HelpTOCNode Title="WetDryRatio Property " Url="html/4a117e71-ca81-10e1-a90f-070515d7dfb5.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="EffectType Enumeration" Url="html/51102b5d-ca87-8336-94d4-7c31687e7c9a.htm" />
+    <HelpTOCNode Title="LogType Enumeration" Url="html/abfca798-4134-af8c-fa7b-cc1f5202c0b2.htm" />
+    <HelpTOCNode Id="b26e8a8c-34d9-4aef-84ca-2440aa9adcd6" Title="Mixer Class" Url="html/aa69b121-70e6-8429-6a02-1544a7bd72bd.htm">
+      <HelpTOCNode Title="Mixer Members" Url="html/2803080d-a8cd-e0de-e9b4-f4bd7716136b.htm" />
+      <HelpTOCNode Id="e748f57d-240c-4906-86cf-378e2cd44114" Title="Mixer Methods" Url="html/9448e383-f795-2e61-1b18-3a28e0543582.htm">
+        <HelpTOCNode Title="Close Method " Url="html/1167dbac-7a28-fae8-6901-692c5d6d4623.htm" />
+        <HelpTOCNode Title="Destroy Method " Url="html/7e6de094-b090-42a6-bb6c-2072014a2bd1.htm" />
+        <HelpTOCNode Title="Find Method " Url="html/0ca9e843-3115-718a-9df4-5dd229910035.htm" />
+        <HelpTOCNode Id="5e765dbd-90f9-4321-bcba-379eff698c59" Title="NewMixer Method " Url="html/6856a628-16ff-57d0-4d90-00d7f8a598cd.htm">
+          <HelpTOCNode Title="NewMixer Method (String)" Url="html/e92feb2e-9a26-2d79-d406-d8211dc72eca.htm" />
+          <HelpTOCNode Title="NewMixer Method (String, Mixer)" Url="html/48fa6d0e-92d2-d506-5c49-0e659c8e676b.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="db74f560-d8af-4409-be0e-4011fc8a8617" Title="Mixer Properties" Url="html/294e3647-a828-65a3-818c-f8c206262615.htm">
+        <HelpTOCNode Title="Master Property " Url="html/d1b9bd28-596a-b5d6-b392-5547be90f238.htm" />
+        <HelpTOCNode Title="MixedPauseState Property " Url="html/af568441-60b2-11c7-69e6-294dc0b80b17.htm" />
+        <HelpTOCNode Title="MixedVolume Property " Url="html/6ec3e970-142b-08be-6076-466e005125ab.htm" />
+        <HelpTOCNode Title="Name Property " Url="html/73832e9a-1b58-9160-3ea4-aebec567e7c7.htm" />
+        <HelpTOCNode Title="Parent Property " Url="html/ae3024cb-f6e7-d72b-1c69-0a832b3570d8.htm" />
+        <HelpTOCNode Title="Paused Property " Url="html/9afc7d43-f509-b027-f859-c4cc45197a3a.htm" />
+        <HelpTOCNode Title="Volume Property " Url="html/881271ef-b947-3c0e-af97-e48f2bd37f74.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="PathType Enumeration" Url="html/087fd70e-9e34-8cad-a6c5-f76f99c7fc4e.htm" />
+    <HelpTOCNode Title="RingModParam Enumeration" Url="html/889722e6-3df8-1d61-e8a9-a262982ba3ba.htm" />
+    <HelpTOCNode Id="9548f313-4d7d-4689-9e45-038f5fd09a29" Title="Sound Class" Url="html/eced533f-fd31-3e2a-4063-c9de786b16d5.htm">
+      <HelpTOCNode Title="Sound Members" Url="html/5dfa2ead-f311-7108-bbcb-af4dcd889f19.htm" />
+      <HelpTOCNode Id="db403138-bd25-4eb8-8b60-72ab385ffde0" Title="Sound Methods" Url="html/440b7d22-ee3f-1645-b0d7-aaf43210df0d.htm">
+        <HelpTOCNode Title="Close Method " Url="html/61b6a71e-8607-dc03-d906-b2cfe198a063.htm" />
+        <HelpTOCNode Title="Destroy Method " Url="html/e63b9417-5f5e-ad79-548a-559f2b6e9c24.htm" />
+        <HelpTOCNode Title="Get3dAttenuation Method " Url="html/f75ce4fc-4628-83ba-65d2-2ac972a3ee29.htm" />
+        <HelpTOCNode Title="Get3dListenerPosition Method " Url="html/373e5318-1c6a-fdc6-801a-c07c8229ee77.htm" />
+        <HelpTOCNode Title="Get3dListenerVelocity Method " Url="html/a1bc2ca5-6d29-5cb4-7578-e93c97a8a34d.htm" />
+        <HelpTOCNode Title="Get3dPosition Method " Url="html/72a9f3d6-1b67-2013-d907-464cd55740f8.htm" />
+        <HelpTOCNode Title="Get3dVelocity Method " Url="html/0f6025cd-5fd6-c5ef-4d6f-47c42b0fb0bb.htm" />
+        <HelpTOCNode Title="GetLoop Method " Url="html/cf966f74-de9a-7d23-4549-4c6eb322bad2.htm" />
+        <HelpTOCNode Title="GetPanMatrix Method " Url="html/6edcd6d1-fb6e-35c1-c86a-ba8a566dd57f.htm" />
+        <HelpTOCNode Id="455802fa-24f1-4145-a9ec-0dda100ed5e6" Title="NewBankSound Method " Url="html/8e38b1b6-df97-2b42-1ead-8aba692ff4d3.htm">
+          <HelpTOCNode Title="NewBankSound Method (Bank, Int32)" Url="html/758b3996-db66-5ae2-4cb6-f408da5ddda2.htm" />
+          <HelpTOCNode Title="NewBankSound Method (Bank, String)" Url="html/d210737c-eb89-0b32-2daa-177964028f21.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="722dc573-03a0-468a-9283-598228c4755a" Title="NewStreamSound Method " Url="html/be14f4e9-ea80-bde5-a1b0-a8a90657c528.htm">
+          <HelpTOCNode Title="NewStreamSound Method (String)" Url="html/9ccbcfc3-8f4c-5b40-3501-c38b4691a1c0.htm" />
+          <HelpTOCNode Title="NewStreamSound Method (String, PathType)" Url="html/fe85b3cb-e58a-5d06-5f2f-42f8e71c90a0.htm" />
+          <HelpTOCNode Title="NewStreamSound Method (String, PathType, Int32, Int32, String)" Url="html/b92a658d-bde7-a529-1913-b28895c9d097.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="Play Method " Url="html/32657c0f-01b7-76c3-99b9-db5357fcf19d.htm" />
+        <HelpTOCNode Title="ReleaseLoop Method " Url="html/08f175c7-1c59-4511-bb3f-e105e651af2a.htm" />
+        <HelpTOCNode Title="Set3dAttenuation Method " Url="html/b4cff2d3-7852-daff-a469-e93b71bd4134.htm" />
+        <HelpTOCNode Title="Set3dListenerPosition Method " Url="html/26d68b4e-f501-4562-ce7a-b14a07f34ef2.htm" />
+        <HelpTOCNode Title="Set3dListenerVelocity Method " Url="html/0106eb6c-51f4-84f6-3a15-5dbaeb74fc2f.htm" />
+        <HelpTOCNode Title="Set3dPosition Method " Url="html/f2521794-f609-07a5-442a-02ae717c3fa6.htm" />
+        <HelpTOCNode Title="Set3dVelocity Method " Url="html/35cecdc8-5b08-d4d6-c563-4c9e7408a644.htm" />
+        <HelpTOCNode Title="SetLoop Method " Url="html/a3e78a43-5612-ccc2-7b04-581df1c328e1.htm" />
+        <HelpTOCNode Title="SetPanMatrix Method " Url="html/61e77e26-fc81-f96e-9769-7e58a1eba2de.htm" />
+        <HelpTOCNode Title="Stop Method " Url="html/350ffa04-9df0-2050-f46f-8628cbf91081.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="fd6bfd79-a0a0-469e-9e67-f5b10ac36d6a" Title="Sound Properties" Url="html/4cbd9984-9791-6b06-4b19-c3db436bce52.htm">
+        <HelpTOCNode Title="Channels Property " Url="html/c5a2611b-2f9e-8f4c-1267-fed64e9bb87c.htm" />
+        <HelpTOCNode Title="CurrentLoop Property " Url="html/d1a664ed-ddb5-ba3c-73a0-d66932ef9a61.htm" />
+        <HelpTOCNode Title="EffectBus Property " Url="html/fabdd43a-aa93-2e07-2500-98a404204033.htm" />
+        <HelpTOCNode Title="Failed Property " Url="html/955c7388-0003-3b43-c8d5-524eb78612c1.htm" />
+        <HelpTOCNode Title="Length Property " Url="html/fd5954cb-6cfc-fcc8-e775-50394cf8dc8a.htm" />
+        <HelpTOCNode Title="LengthMs Property " Url="html/e6abca97-0315-6110-1c43-88c4708d63c2.htm" />
+        <HelpTOCNode Title="LoopCount Property " Url="html/959ec4c5-421e-e833-30a8-7fb7da9f15ca.htm" />
+        <HelpTOCNode Title="LoopReleased Property " Url="html/0c087fc6-f516-cb36-5eea-93ebf58a7394.htm" />
+        <HelpTOCNode Title="MixedPauseState Property " Url="html/c5a4dff5-2f2d-1cc5-da83-91446e04b4ad.htm" />
+        <HelpTOCNode Title="MixedVolume Property " Url="html/0babd69c-e591-f163-962f-35fe08ab3944.htm" />
+        <HelpTOCNode Title="Mixer Property " Url="html/c517b03f-6b0b-f801-6135-60a502932b0a.htm" />
+        <HelpTOCNode Title="NextSound Property " Url="html/a9cdb161-161d-3f01-0c07-741b198076fa.htm" />
+        <HelpTOCNode Title="Pan Property " Url="html/e3a6e3d5-2171-f1e2-6a4a-5fa62e926ac2.htm" />
+        <HelpTOCNode Title="Paused Property " Url="html/ab7db8c2-bea2-e905-1b5c-486d73b21b31.htm" />
+        <HelpTOCNode Title="PitchShift Property " Url="html/3577106a-4e93-95de-287e-3837e95d8716.htm" />
+        <HelpTOCNode Title="Playing Property " Url="html/fe2d4d31-1356-26f3-7f5e-cf690e60f342.htm" />
+        <HelpTOCNode Title="PlayPosition Property " Url="html/f1bb069e-da15-58ed-f225-ff46d4b584ad.htm" />
+        <HelpTOCNode Title="PlayPositionMs Property " Url="html/b228caed-0099-ae63-0aa1-d1bcaa88b46a.htm" />
+        <HelpTOCNode Title="Ready Property " Url="html/9ffa58e2-7030-95bc-c090-b76e41ef7b97.htm" />
+        <HelpTOCNode Title="SampleRate Property " Url="html/1326fd75-9fe3-7da7-0d86-d28b45bdbed5.htm" />
+        <HelpTOCNode Title="SoundSpeed_CentimetersPerSecond Property " Url="html/3df87c17-bde7-6cd7-575e-8dff9afd8db0.htm" />
+        <HelpTOCNode Title="SoundSpeed_FeetPerSecond Property " Url="html/9979fab8-9787-1e88-7d19-31656210c80e.htm" />
+        <HelpTOCNode Title="SoundSpeed_InchesPerSecond Property " Url="html/f4c6bf02-6da7-3a48-2db5-520682ebee17.htm" />
+        <HelpTOCNode Title="SoundSpeed_MetersPerSecond Property " Url="html/11cbbe70-31d8-5f7f-263b-a8bf5c2221a5.htm" />
+        <HelpTOCNode Title="Speed Property " Url="html/7aafa8c5-99b5-1d07-526e-abf155589a4f.htm" />
+        <HelpTOCNode Title="ThreeDEnabled Property " Url="html/dc0e17b7-966c-0baf-4e46-b6ffb35aad56.htm" />
+        <HelpTOCNode Title="ThreeDSoundSpeed Property " Url="html/282a5af3-7b88-2d15-02c0-baaf5c75b527.htm" />
+        <HelpTOCNode Title="Virtual Property " Url="html/84a2b960-7192-b36b-44d4-80f534e5df91.htm" />
+        <HelpTOCNode Title="Volume Property " Url="html/68b48f78-b7e4-fdd3-2271-495e02f62d68.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>
