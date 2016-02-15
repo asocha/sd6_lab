@@ -41,3 +41,4 @@ TestVS2015/Release/
 *.cache
 *.bmfc
 *.ipch
+*.sdf
