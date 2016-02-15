@@ -38,3 +38,6 @@ TestVS2015/Release/
 *.iobj
 *.ipdb
 *.suo
+*.cache
+*.bmfc
+*.ipch
